@@ -1,0 +1,21 @@
+{
+  "order": {
+    "name": "QA Assessment Candidate",
+    "country": "India",
+    "city": "Nagpur",
+    "creditCard": "4532000011112222",
+    "month": "11",
+    "year": "2027"
+  },
+  "initialBooking": {
+    "firstname": "John",
+    "lastname": "Doe",
+    "totalprice": 350,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2026-11-01",
+      "checkout": "2026-11-05"
+    },
+    "additionalneeds": "Breakfast"
+  }
+}
